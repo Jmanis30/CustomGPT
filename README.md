@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CustomGPT.gif" alt="Alt text" width="100%">
+  <img src="CustomGPT.gif" alt="Alt text" width="60%">
 </p>
 
 
