@@ -1,6 +1,5 @@
-<div style="text-align:center;">
-  <img src="CustomGPT.gif" alt="Alt text" style="width:100%; height:auto;" />
-</div>
+<video src="CustomGPT.mp4" autoplay loop muted playsinline style="max-width:100%; height:auto;">
+</video>
 
 
 
