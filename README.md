@@ -1,4 +1,7 @@
-![Alt text](CustomGPT.gif)
+<div style="text-align:center;">
+  <img src="CustomGPT.gif" alt="Alt text" style="width:100%; height:auto;" />
+</div>
+
 
 
 **Overview**
